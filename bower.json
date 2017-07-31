@@ -1,0 +1,22 @@
+{
+  "name": "js-ping-pong",
+  "description": "Ping-Pong using more advanced JavaScript Concepts",
+  "main": "pingpong.js",
+  "authors": [
+    "Mara"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/Epicodus-MT/js-ping-pong",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "bootstrap": "^3.3.7",
+    "moment": "^2.18.1"
+  }
+}

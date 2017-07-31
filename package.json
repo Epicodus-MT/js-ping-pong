@@ -8,15 +8,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Littlejoel29/js-ping-pong.git"
+    "url": "git+https://github.com/Epicodus-MT/js-ping-pong"
   },
-  "author": "Joel",
+  "author": "Mara",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Littlejoel29/js-ping-pong/issues"
+    "url": "https://github.com/Epicodus-MT/js-ping-pong"
   },
-  "homepage": "https://github.com/Littlejoel29/js-ping-pong#readme",
+  "homepage": "https://github.com/Epicodus-MT/js-ping-pong#readme",
   "devDependencies": {
+    "bower-files": "^4.0.0",
+    "browser-sync": "^2.18.13",
     "browserify": "^14.4.0",
     "del": "^3.0.0",
     "gulp": "^3.9.1",

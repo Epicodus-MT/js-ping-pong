@@ -4,7 +4,6 @@ body {
 }
 
 img {
-  height: 250px;
-  width: 250px;
-  background-image: repeating-linear-gradient();
+  height: 100px;
+  background-repeat: repeat-x;
 }
