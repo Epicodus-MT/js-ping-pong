@@ -1,4 +1,10 @@
 
 body {
-  background-color: yellow;
+  background-color: #E1F9EC;
+}
+
+img {
+  height: 250px;
+  width: 250px;
+  background-image: repeating-linear-gradient();
 }
