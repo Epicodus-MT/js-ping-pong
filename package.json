@@ -1,0 +1,23 @@
+{
+  "name": "js-ping-pong",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Epicodus-MT/js-ping-pong.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Epicodus-MT/js-ping-pong/issues"
+  },
+  "homepage": "https://github.com/Epicodus-MT/js-ping-pong#readme",
+  "devDependencies": {
+    "browserify": "^14.4.0",
+    "gulp": "^3.9.1"
+  }
+}
