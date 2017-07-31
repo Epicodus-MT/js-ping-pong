@@ -1,29 +1,30 @@
 {
   "name": "js-ping-pong",
   "version": "1.0.0",
-  "main": "index.js",
+  "description": "Ping-Pong using more advanced JavaScript Concepts",
+  "main": "pingpong.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Epicodus-MT/js-ping-pong.git"
+    "url": "git+https://github.com/Littlejoel29/js-ping-pong.git"
   },
-  "author": "",
+  "author": "Joel",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Epicodus-MT/js-ping-pong/issues"
+    "url": "https://github.com/Littlejoel29/js-ping-pong/issues"
   },
-  "homepage": "https://github.com/Epicodus-MT/js-ping-pong#readme",
+  "homepage": "https://github.com/Littlejoel29/js-ping-pong#readme",
   "devDependencies": {
     "browserify": "^14.4.0",
+    "del": "^3.0.0",
     "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
     "gulp-jshint": "^2.0.4",
     "gulp-uglify": "^3.0.0",
     "gulp-util": "^3.0.8",
     "jshint": "^2.9.5",
     "vinyl-source-stream": "^1.1.0"
-  },
-  "dependencies": {},
-  "description": ""
+  }
 }
