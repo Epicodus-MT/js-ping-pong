@@ -1,9 +1,14 @@
 
 body {
   background-color: #E1F9EC;
+
+}
+
+.container {
+  background-image: url("img/table-tennis.jpeg");
+  background-repeat: repeat-x;
 }
 
 img {
   height: 100px;
-  background-repeat: repeat-x;
 }
